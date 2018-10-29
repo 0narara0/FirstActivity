@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">FirstActivity</string>
+    <string name="FirstActivity">First Activity</string>
+    <string name="FirstButton">First Button</string>
+    <string name="SecondActivity">Second Activity</string>
+    <string name="SecondButton">Second Button</string>
+    <string name="ThirdActivity">Third Activity</string>
+    <string name="ThirdButton">Third Button</string>
 </resources>

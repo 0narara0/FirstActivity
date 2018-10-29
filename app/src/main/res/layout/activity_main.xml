@@ -20,7 +20,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="First Activity"
+            android:text="@string/FirstActivity"
             android:textSize="24sp" />
 
         <Button
@@ -28,7 +28,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="First Button" />
+            android:text="@string/FirstButton" />
     </LinearLayout>
 
 </android.support.constraint.ConstraintLayout>
